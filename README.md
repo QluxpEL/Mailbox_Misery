@@ -50,3 +50,11 @@ Working on this game significantly improved my knowledge of Roblox development. 
 
 In the end, this project became an important to my development journey and helped me build the confidence.
 </p>
+
+<br>
+<br>
+<p align="middle">
+  <a href="https://github.com/QluxpEL#-mailbox-misery">
+    <img src="https://img.shields.io/badge/GitHub-return_to_main_page-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
